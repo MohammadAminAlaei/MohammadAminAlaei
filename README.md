@@ -36,26 +36,21 @@
   <a target="_blank" href="https://www.figma.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"
       width="45" height="45" /></a>
-  <a target="_blank" href="https://d3js.org/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-plain.svg" alt="D3JS" width="45"
-      height="45" /></a>
-  <a target="_blank" href="https://www.php.net/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="45"
-      height="45" /></a>
-  <a target="_blank" href="https://git-scm.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
-      height="45" /></a>
-  <a target="_blank" href="https://github.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="45"
-      height="45" /></a>
+  <a target="_blank" href="https://lodash.com/"><img
+      src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/lodash.svg" alt="Figma"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://www.python.org/"><img
+      src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Figma"
+      width="45" height="45" /></a>
+  
 </p>
 
 <h2></h2>
 </br>
 
 <div align="center">
-  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=mre-dev&theme=dracula" />
-  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mre-dev&langs_count=4&theme=dracula" />
+  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=mre-dev&theme=onedark" />
+  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mre-dev&langs_count=4&theme=onedark" />
 </div>
 
 <!---
