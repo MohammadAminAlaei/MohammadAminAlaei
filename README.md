@@ -9,7 +9,7 @@
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 
-<br><br>
+<br><br><br>
 
 **<p align="center">Languages and Tools</p>**
 
@@ -63,6 +63,8 @@
   <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=MohammadAminAlaei&theme=onedark" />
   <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAminAlaei&langs_count=4&theme=onedark" />
 </div>
+
+<br>
 
 [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=MohammadAminAlaei&custom_title=Mohammad%20Amin%20Alaei%20Nejad%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/MohammadAminAlaei)
 
