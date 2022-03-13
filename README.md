@@ -55,6 +55,6 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 400px/>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=MohammadAminAlaei&custom_title=Mohammad%20Amin%20Alaei%20Nejad%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://MohammadAminAlaei.dev)
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=MohammadAminAlaei&custom_title=Mohammad%20Amin%20Alaei%20Nejad%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/MohammadAminAlaei)
 
 
