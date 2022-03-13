@@ -9,7 +9,8 @@
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 
-<br><br><br>
+</br></br>
+<h2></h2>
 
 **<p align="center">Languages and Tools</p>**
 
