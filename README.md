@@ -57,7 +57,7 @@
 
 [![Mohammad Amin Alaei Activity Graph](https://activity-graph.herokuapp.com/graph?username=MohammadAminAlaei&custom_title=Mohammad Amin%20Trips's%20Contribution%20Graph&theme=onedark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+
 
 
 
