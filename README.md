@@ -53,7 +53,7 @@
   <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAminAlaei&langs_count=4&theme=onedark" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/63050133/156775623-d7ba7abb-a29f-43fc-b910-334027773a97.png" width=40> My Competitive Programming Profiles
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 
 <!---
