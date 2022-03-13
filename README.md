@@ -61,8 +61,8 @@
 </br>
 
 <div align="center">
-  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=MohammadAminAlaei&theme=onedark" />
-  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAminAlaei&langs_count=4&theme=onedark" />
+  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=MohammadAminAlaei&theme=gruvbox" />
+  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAminAlaei&langs_count=4&theme=gruvbox" />
 </div>
 
 <br>
